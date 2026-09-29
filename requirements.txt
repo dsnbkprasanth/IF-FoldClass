@@ -1,0 +1,12 @@
+python>=3.11
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+scikit-learn>=1.4
+lightgbm>=4.3
+matplotlib>=3.8
+requests>=2.31
+tqdm>=4.66
+torch>=2.2
+transformers>=4.40
+scipy>=1.11

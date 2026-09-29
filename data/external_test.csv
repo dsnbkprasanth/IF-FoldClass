@@ -1,0 +1,2 @@
+# External hold-out retired: all literature labels now live in functional_labels.csv and are evaluated leave-study-out.
+gene,variant,phenotype,assay,source_doi

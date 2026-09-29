@@ -1,0 +1,18 @@
+# Cross-IF test set: cell-transfection phenotypes in non-desmin IFs. Never used for training (models are trained on DES only).
+gene,variant,phenotype,assay,source_doi
+GFAP,L58P,aggregation,HeLa,10.1212/NXG.0000000000000681
+GFAP,R239H,aggregation,U343MG,10.1042/AN20130032
+GFAP,D225E,network,U343MG,10.1042/AN20130032
+GFAP,R239C,aggregation,U-87MG/astrocytes,10.1016/j.redox.2026.104103;10.2353/ajpath.2006.051028
+GFAP,R79C,aggregation,U-87MG,10.1016/j.redox.2026.104103
+GFAP,E373K,aggregation,U-87MG,10.1016/j.redox.2026.104103
+GFAP,N386I,aggregation,U343MG/SW13,10.1016/j.yexcr.2011.06.017
+GFAP,S398F,aggregation,U343MG/SW13,10.1016/j.yexcr.2011.06.017
+GFAP,S398Y,aggregation,U343MG/SW13,10.1016/j.yexcr.2011.06.017
+GFAP,S393I,partial,U343MG/SW13,10.1016/j.yexcr.2011.06.017
+GFAP,R416W,aggregation,multiple,10.1086/504411
+NEFL,A149V,network,SW13vim-+INA,10.1038/s41467-023-42227-0
+NEFL,I384F,network,SW13vim-+INA,10.1038/s41467-023-42227-0
+NEFL,Y443N,network,SW13vim-+INA,10.1038/s41467-023-42227-0
+NEFL,K467N,network,SW13vim-+INA,10.1038/s41467-023-42227-0
+NEFL,Q332P,aggregation,SW13vim-/neurons,10.1002/cm.21566
